@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ezemass
-- 👀 I’m interested in FrontEnd + Api
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in FrontEnd + Api 
+- 🌱 I’m currently learning ... Javascript, React native
+- 💞️ I’m looking to collaborate on ... Mobile Apps
+- 📫 How to reach me ... Here on git or my gmail. Ezequielmassolo92@gmail.com
 
 <!---
 Ezemass/Ezemass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
